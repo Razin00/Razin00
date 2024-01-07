@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/Razin00/Razin00/blob/main/banner.png">  </div>
-<h1 align="center">𝐇𝐢👋 ,𝐈 𝐚𝐦 𝐌𝐨𝐡𝐚𝐦𝐦𝐞𝐝 𝐑𝐚𝐳𝐢𝐧 𝐜𝐫</h1>
+<h1 align="center">𝐇𝐢👋 ,𝐈 𝐚𝐦 Anonymous </h1>
 <img align="right" alt="Coding" width="400" height="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
  💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
 <br>✨ I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact I'm Funny😄
